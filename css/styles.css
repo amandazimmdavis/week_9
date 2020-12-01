@@ -1,0 +1,10 @@
+body {
+  background-color: #DADED4;
+  color: #3C403D;
+  text-align: center;
+  padding-top: 50px; }
+  body h1 {
+    padding-bottom: 50px; }
+  body h2 {
+    padding-bottom: 25px;
+    padding-top: 25px; }
